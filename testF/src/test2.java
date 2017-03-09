@@ -9,7 +9,7 @@ import static java.lang.System.*;
 public class test2 {
     public static void main(String[] args) {
     	
-    	System.out.println("test3");;
+    	System.out.println("test22");;
     
     }
 }
